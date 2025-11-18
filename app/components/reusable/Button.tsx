@@ -22,7 +22,7 @@ label = "Click Me",
 
       const variantStyles = {
     primary: "bg-blue-600 text-white hover:bg-blue-700",
-    outline: "border border-zinc-400 text-zinc-700 hover:bg-zinc-100 dark:text-white dark:border-zinc-600",
+    outline: "border border-zinc-400 text-zinc-700 hover:bg-zinc-100 dark:text-white dark:border-zinc-600 bg-none",
     ghost: "text-zinc-700 hover:bg-zinc-200 dark:text-white dark:hover:bg-zinc-800",
     destructive: "bg-red-600 text-white hover:bg-red-700",
   };

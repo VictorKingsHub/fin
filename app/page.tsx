@@ -8,7 +8,7 @@ export default function Home() {
     <div className="flex flex-col min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
       <Button fullWidth={false} label={"Submit"} variant={"primary"} size={"lg"}   />
 
-      <HeroSection title="Hero Section" description="Lorem Description"  />
+      <HeroSection title="Best Selling Digital Product" buttonLabel=" Contact Us" variant="outline" size="lg"/>
     </div>
   );
 }
